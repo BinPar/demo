@@ -7,6 +7,6 @@ export default (): JSX.Element => (
       <title>Demo BinPar!</title>
       <link rel="stylesheet" type="text/css" href="/styles.css" />
     </Head>
-    <h1>Hello BinPar</h1>
+    <h1>Demo BinPar</h1>
   </React.Fragment>
 );
