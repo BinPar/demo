@@ -1,4 +1,4 @@
-# TypeScript Next Boilerplate
+# TypeScript Demo
 
 TypeScript Next Boilerplate
 
